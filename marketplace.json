@@ -12,7 +12,9 @@
       },
       "description_i18n": {
         "zh-CN": "连接 ZCode 与 Figma：浏览文件、读取设计结构、渲染设计稿截图、导出资源、同步评论，支持设计转代码与设计评审。"
-      }
+      },
+      "category": "developer-tools",
+      "icon": "https://raw.githubusercontent.com/ZrLi03112/zcode-figma-bridge/main/assets/icon.png"
     }
   ]
 }
